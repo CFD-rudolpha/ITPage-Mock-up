@@ -1,0 +1,34 @@
+.topnav {
+	text-align: center;
+	padding: 5px;
+}
+.topnav a {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.site-header {
+	text-align: center;
+}
+.flex-container {
+	flex: 1 1 30px;
+	display: inline-block;
+	flex-flow: column;
+	
+}
+
+
+.button {
+	margin: 50px;
+	background-color: lightblue;
+	float: left;
+	text-align: center;
+}
+
+#HDbutton {
+	float: left;
+}
+
+#Supportbutton {
+	float: left;
+}
